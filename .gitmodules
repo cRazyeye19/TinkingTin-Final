@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/cRazyeye19/TinkingTin---Backend.git
+[submodule "socket"]
+	path = socket
+	url = https://github.com/cRazyeye19/TinkingTin--Socket.git
