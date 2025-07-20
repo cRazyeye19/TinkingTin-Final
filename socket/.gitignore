@@ -3,3 +3,6 @@
 # dependencies
 node_modules/
 socket/node_modules/
+
+#secret
+.env
